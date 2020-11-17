@@ -1,0 +1,17 @@
+export const headerconstant = {
+  myPlanLabel: 'Discover',
+  trendsLabel: 'Trends',
+  roomIdeasLabel: 'Room Ideas',
+  localTrendsLabel: 'Local Trends',
+  editProfileLabel: 'Edit Profile',
+  signOutLabel: 'Sign Out',
+  signInLabel: 'Sign In',
+  signUpLabel: 'Sign Up',
+  blogLabel: 'Blog',
+  privacyLabel: 'See Terms and Privacy',
+  myLuvLabel: 'My Luv',
+  roomIdeasMenuId: 'room-ideas',
+  trendsMenuId: 'trends',
+  localTrendsMenuId: 'local-trends',
+  altText: 'Home Luv Logo',
+};
